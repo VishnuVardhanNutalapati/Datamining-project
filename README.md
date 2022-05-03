@@ -1,5 +1,5 @@
 # Datamining-project
-Download the data.csv 
-upload this to google drive
-Mount google drive to google colab
-While loading the dataset change the path of the dataset to your google drive path.
+Download the data.csv.
+upload data.csv file to google drive.
+Mount google drive to google colab.
+While loading the dataset browse for the data.csv from your google drive right click on it to get the path of the file.
